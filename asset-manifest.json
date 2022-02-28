@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanyeRest/static/css/main.bea05552.css",
+    "main.js": "/kanyeRest/static/js/main.fc2eb12a.js",
+    "static/js/787.0d2c0ff0.chunk.js": "/kanyeRest/static/js/787.0d2c0ff0.chunk.js",
+    "index.html": "/kanyeRest/index.html",
+    "main.bea05552.css.map": "/kanyeRest/static/css/main.bea05552.css.map",
+    "main.fc2eb12a.js.map": "/kanyeRest/static/js/main.fc2eb12a.js.map",
+    "787.0d2c0ff0.chunk.js.map": "/kanyeRest/static/js/787.0d2c0ff0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea05552.css",
+    "static/js/main.fc2eb12a.js"
+  ]
+}
